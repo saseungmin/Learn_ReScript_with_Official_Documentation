@@ -1,0 +1,28 @@
+{
+  "name": "learn_rescript_with_official_documentation",
+  "version": "0.0.1",
+  "description": "공식문서로 ReScript를 배워보자. https://rescript-lang.org/",
+  "main": "index.js",
+  "scripts": {
+    "build": "rescript",
+    "clean": "rescript clean -with-deps",
+    "start": "rescript build -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saseungmin/Learn_ReScript_with_Official_Documentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saseungmin/Learn_ReScript_with_Official_Documentation/issues"
+  },
+  "homepage": "https://github.com/saseungmin/Learn_ReScript_with_Official_Documentation#readme",
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  },
+  "dependencies": {
+    "reason-react": "^0.9.1"
+  }
+}
