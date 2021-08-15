@@ -23,6 +23,6 @@
     "rescript": "^9.1.4"
   },
   "dependencies": {
-    "reason-react": "^0.9.1"
+    "bs-platform": "^9.0.2"
   }
 }
