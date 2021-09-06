@@ -1,0 +1,30 @@
+{
+  "name": "learn_rescript_with_official_documentation",
+  "version": "1.0.0",
+  "description": "- 공식문서로 ReScript를 배워보자. https://rescript-lang.org/ - 그린랩스 KR 번역본 https://green-labs.github.io/rescript-in-korean/",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "re:build": "rescript",
+    "re:start": "rescript build -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saseungmin/Learn_ReScript_with_Official_Documentation.git"
+  },
+  "author": "saseungmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saseungmin/Learn_ReScript_with_Official_Documentation/issues"
+  },
+  "homepage": "https://github.com/saseungmin/Learn_ReScript_with_Official_Documentation#readme",
+  "dependencies": {
+    "@rescript/react": "^0.10.3",
+    "@ryyppy/rescript-promise": "^2.1.0",
+    "bs-platform": "^9.0.2",
+    "rescript": "^9.1.4"
+  }
+}
