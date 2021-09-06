@@ -1,5 +1,5 @@
 # dependencies
-/node_modules/
+node_modules
 
 # mac
 .DS_Store
@@ -7,4 +7,4 @@
 # ReScript
 .bsb.lock
 .merlin
-/lib/
+lib
