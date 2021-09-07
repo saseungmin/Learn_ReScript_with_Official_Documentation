@@ -2,7 +2,7 @@
 'use strict';
 
 var React = require("react");
-var Caml_splice_call = require("bs-platform/lib/js/caml_splice_call.js");
+var Caml_splice_call = require("rescript/lib/js/caml_splice_call.js");
 
 var element = React.createElement("h1", undefined, "Hello World");
 
