@@ -70,10 +70,13 @@ function UseEffect$make1(Props) {
   return React.createElement("div", undefined, text);
 }
 
+var test = "";
+
 var make = UseEffect;
 
 var make1 = UseEffect$make1;
 
+exports.test = test;
 exports.$$Document = $$Document;
 exports.make = make;
 exports.ChatAPI = ChatAPI;
