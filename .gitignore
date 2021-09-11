@@ -8,3 +8,6 @@ node_modules
 .bsb.lock
 .merlin
 lib
+
+# vscode
+.vscode
