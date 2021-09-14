@@ -2,6 +2,9 @@
 - 공식문서로 ReScript를 배워보자. https://rescript-lang.org/
 - 그린랩스 KR 번역본 https://green-labs.github.io/rescript-in-korean/
 
+## 🎯 ReScript_ToDo App
+- [ReScript_ToDo Repository](https://github.com/saseungmin/ReScript_ToDo)
+
 ## 📚 언어적인 특성 및 예시
 - [ReScript Sample](https://github.com/saseungmin/Learn_ReScript_with_Official_Documentation/tree/main/rescript-sample)
 
